@@ -48,7 +48,7 @@ def run_filter(
     if out_file:
         # save the file
         Image.fromarray(filtered).save(out_file)
-        print("----------------- Success: File saved to disk -----------------")
+        print("Success: File saved to disk")
         Image.fromarray(filtered).show()
     else:
         # not asked to save, display it instead
