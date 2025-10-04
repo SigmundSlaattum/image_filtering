@@ -1,4 +1,4 @@
-Filter your image to grayscale or sepia including options of scaling and amount of filter applied to your chosen image
+Filter your image to grayscale or sepia including options for scaling and amount of filter applied to your chosen image
 ---
 
 This code offers two filters:
